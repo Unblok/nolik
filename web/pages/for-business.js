@@ -25,15 +25,15 @@ class WhatIsNolik extends React.Component {
             </button>
           </div>
           <div className="container">
-            <h1>Nolik for business</h1>
+            <h1>Unblok.email for business</h1>
             <p>
-              Nolik is the easiest way to connect with your customers, partners
+              Unblok is the easiest way to connect with your customers, partners
               and colleagues. It allows to start secure convarsations with one
               click, and those conversations will be protected from surveillance
               and data leakages.
             </p>
             <p>
-              Messages that were sent with nolik can&apos;t be deleted or
+              Messages that were sent with unblok.email can&apos;t be deleted or
               modified. Each message is signed with digital signature and has a
               timestamp. That could be used for making contracts remotely.
             </p>
@@ -47,7 +47,7 @@ class WhatIsNolik extends React.Component {
             </p>
             <h2>What exactly do we offer</h2>
             <ul>
-              <li>Branded Nolik with a corporate domain name</li>
+              <li>Branded Unblok.email with a corporate domain name</li>
               <li>
                 Deployment to corporate (or our private) cloud infrastructure
               </li>
