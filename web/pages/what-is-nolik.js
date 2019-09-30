@@ -22,11 +22,9 @@ class WhatIsNolik extends React.Component {
             </button>
           </div>
           <div className="container">
-            <h1>What is Nolik</h1>
+            <h1>What is Unblok.email</h1>
             <p>
-              Nolik is a thread-based messaging application that is perfect for
-              external conversations. It can be used by individuals and
-              companies. It is build based on&nbsp;
+              Unblok.email is a secure distributed messaging service based on blockchain and IPFS.
               <a
                 href="https://github.com/chainify/nolik#cdm-protocol"
                 target="_blank"
@@ -65,7 +63,7 @@ class WhatIsNolik extends React.Component {
             </ul>
             <h2>How it works</h2>
             <p>
-              Under the hood Nolik uses a combination of Blockchain and IPFS
+              Under the hood Unblock.email uses a combination of Blockchain and IPFS
               technologies, which provides an unprecedented level of
               transparency and security. You can find out more on official&nbsp;
               <a href="https://github.com/chainify/nolik" target="_blank">
@@ -74,19 +72,19 @@ class WhatIsNolik extends React.Component {
               .
             </p>
             <p>
-              At Nolik there is no user registration with login and password.
+              Unblock.email doesn't have no user registration with login and password.
               Instead every user automatically generates a key pair (a private
               and a public key). That key pair is used to encrypt and decrypt
               messages. Nolik does not have an access to that key pair and does
               not store them. The IPFS technology is a data storage level, that
               stores encrypted messages. Every user can have an access to
-              encrypted data and decrypt it using Nolik or any other software.
+              encrypted data and decrypt it using Unblock.email or any other software.
             </p>
 
             <h2>Nolik for business</h2>
             <p>
-              Companies have an option to deploy branded Nolik on corporate
-              servers. Nolik is open-source and under MIT license. However in
+              Companies have an option to deploy branded Unblock.email on corporate
+              servers. Unblock.email is open-source and under MIT license. However in
               that case companies will have to handle cryptocurrency economics,
               data backups, software updates and bug fixes. We can take care of
               that low-level part of technology and let companirs focus on their

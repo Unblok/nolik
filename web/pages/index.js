@@ -47,11 +47,11 @@ class Index extends React.Component {
           <div className="container">
             <div className="text">
               <h1>
-                <b>Nolik</b> instant messenger
+                <b>Unblock.email</b>
               </h1>
               <p>
                 It is the fastest way to create immutable and secure
-                conversations. What makes Nolik unique is auditable protection
+                conversations. What makes Unblock.email unique is auditable protection
                 from data leakages.
               </p>
             </div>
@@ -60,7 +60,7 @@ class Index extends React.Component {
             <div className="footerItem">
               <Icon type="github" />
               &nbsp;
-              <a href="https://github.com/chainify/nolik" target="_blank">
+              <a href="https://github.com/unblok/nolik" target="_blank">
                 Github
               </a>
             </div>

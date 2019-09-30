@@ -30,12 +30,12 @@ class Index extends React.Component {
           <div className="container">
             <h1>Contact</h1>
             <p>
-              The best way to contact is to use Nolik. No app installation or
+              The best way to contact is to use Unblock.email. No app installation or
               registration needed. Just click a link and start messaging.
             </p>
             <p>
               <a
-                href={`${API_HOST}/pk/cEdRrkTRMkd61UdQHvs1c2pwLfuCXVTA4GaABmiEqrP`}
+                href={`${API_HOST}/pk/Dp3WdDEoG1vcorYEAuS3LGKpNPsTTrghrYDZmwJEhQmM`}
                 target="_blank"
               >
                 Start conversation
