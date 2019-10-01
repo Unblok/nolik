@@ -47,11 +47,11 @@ class Index extends React.Component {
           <div className="container">
             <div className="text">
               <h1>
-                <b>Unblock.email</b>
+                <b>Unblok.email</b>
               </h1>
               <p>
                 It is the fastest way to create immutable and secure
-                conversations. What makes Unblock.email unique is auditable protection
+                conversations. What makes Unblok.email unique is auditable protection
                 from data leakages.
               </p>
             </div>
