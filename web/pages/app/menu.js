@@ -90,10 +90,10 @@ class MenuClass extends React.Component {
             <Divider />
           </Menu.Item>
           <Menu.Item key="contactNolik" onClick={chat.writetoNolik}>
-            <Icon type="build" /> Contact Nolik
+            <Icon type="build" /> Contact Unblok
           </Menu.Item>
           <Menu.Item key="whatIsNolik" onClick={menu.toggleAboutModal}>
-            <Icon type="question-circle" /> What is Nolik
+            <Icon type="question-circle" /> What is Unblok.email
           </Menu.Item>
           <Menu.Item disabled>
             <Divider />

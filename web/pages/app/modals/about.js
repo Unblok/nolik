@@ -22,18 +22,18 @@ class About extends React.Component {
           closable
           onCancel={menu.toggleAboutModal}
         >
-          <h1>What is Nolik</h1>
+          <h1>What is Unblok.email</h1>
           <p>
-            Nolik is a decentralized messaging application that is protected
+            Unblok.email is a decentralized messaging application that is protected
             from data leakages. As a bonus, it is the fastest way to create
-            immutable and secure conversations. Nolik is free and&nbsp;
-            <a href="https://github.com/chainify/nolik" target="_blank">
+            immutable and secure conversations. Unblok.email is free and&nbsp;
+            <a href="https://github.com/unblok/unblok_email" target="_blank">
               open-source
             </a>
             .
           </p>
           <p>
-            At Nolik WE DO NOT STORE your decryption keys. The encryption and
+            At Unblok.email WE DO NOT STORE your decryption keys. The encryption and
             decryption of messages is made in the browser. It means that we will
             not be able to restore your keys if they will be lost or drop them
             if they will be compromised.
